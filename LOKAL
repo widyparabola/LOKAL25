@@ -1,0 +1,227 @@
+#EXTINF:-1,NET. TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,METROTV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+
+#EXTINF:-1,JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,iNEWS HD
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+
+#EXTINF:-1,SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1,BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1,JAKARTA GLOBE NEWS CHANNEL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1,RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1,SKY NEW
+http://julianlennon.com/wp-content/uploads/2014/12/large-square-sky-news-logo.png"
+
+#EXTINF:-1,TVRI NASIONAL
+http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,TVRI 3 BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1,BAYU TV
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,INTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1,BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1,ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1,BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1,BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,TV IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1,TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,1NEWS
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,SBS IN
+http://rr.dens.tv/h/h28/index1.m3u8
+
+#EXTINF:-1,KIX
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1,FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
+#EXTINF:-1,HOME&LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1,INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:-1,ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-1,SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1,NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+
+#EXTINF:-1,Reformed21 HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1,CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1,TVRI SPORTS HD
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1,JAKTV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1,SBS in
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+
+#EXTINF:-1,SONY One
+http://210.210.155.35/uq2663/h/h13/index1.m3u8
+
+#EXTINF:-1,RODJA
+http://rr2.dens.tv/s/s14/index1.m3u8
+
+#EXTINF:-1,HBO Family
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=EF097F66FBB2B38F7498F1DA2B609CEBB1C65DA9&profile=pass
+
+#EXTINF:-1,FOX Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
+
+#EXTINF:-1,Blue Ant ENTERTAINMENT
+http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1,Blue Ant EXTREME
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1,THRILL (link 2)
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1,K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172",Cartoon Network
+http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80",Disney Channel
+http://203.153.218.26:9981/stream/channelid/2098292279?ticket=B3C087D794ADB9CB0D7B89414C84A32DC5889AF5&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_us.png" tvg-id="caf21dc58bc94e97a7f5db16c098d274",National Geographic
+http://203.153.218.26:9981/stream/channelid/1159590602?ticket=E89ECEBB08187E7830CEE02569772C593D07B88C&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b",NAT GEO Wild
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf",NAT GEO People
+http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="b0bfd941e035c6b032d2785586389809",Discovery Channel
+http://203.153.218.26:9981/stream/channelid/1104789424?ticket=D44D1B7007C96E56C40E55F4E56CF3BDEC1B9B31&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2",HBO Family
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=75E706237FA41F9E520BA0F00FC5F580D3339AB0&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/blue-ant-extreme-ca.png" tvg-id="b57c2f8768bcfdba104c35a8dd8b6639",Blue Ant Extreme
+http://203.153.218.26:9981/stream/channelid/120552629?ticket=CE7832FF190AF0482563D9348D29426C87170A65&profile=pass
+
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b",FOX Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
