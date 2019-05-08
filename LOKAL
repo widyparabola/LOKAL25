@@ -97,6 +97,39 @@ http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1,BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",BEIN SPORTS 1 HD UseeTV
+rtmp://118.97.96.17:1935/discover/beib1_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",BEIN SPORTS 2 HD UseeTV
+rtmp://118.97.96.17:1935/discover/beib2_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",BEIN SPORTS 3 HD UseeTV
+rtmp://118.97.96.17:1935/discover/beib3_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",FOX SPORTS 1 HD UseeTV
+rtmp://118.97.96.17:1935/discover/foxsport1_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",FOX SPORTS 2 HD UseeTV
+rtmp://118.97.96.17:1935/discover/foxsport2_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",FOX SPORTS 3 HD UseeTV
+rtmp://118.97.96.17:1935/discover/foxsport3_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",NAT GEO HD UseeTV
+rtmp://118.97.96.17:1935/discover/natgeo_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",NAT GEO PEOPLE HD UseeTV
+rtmp://118.97.96.17:1935/discover/natgeopeople_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",NAT GEO WILD HD UseeTV
+rtmp://118.97.96.17:1935/discover/natgeowild_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",HISTORY HD UseeTV
+rtmp://118.97.96.17:1935/discover/history_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",DISCOVERY HD UseeTV
+rtmp://118.97.96.17:1935/discover/disco_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",SBS IN HD UseeTV
+rtmp://118.97.96.17:1935/discover/sbsin_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",OH!K HD UseeTV
+rtmp://118.97.96.17:1935/discover/ohk_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",WAKU-WAKU HD UseeTV
+rtmp://118.97.96.17:1935/discover/wakuwaku_4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",ASIAN FOOD HD UseeTV
+rtmp://118.97.96.17:1935/discover/afc_4
+
 #EXTINF:-1,TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
